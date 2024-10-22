@@ -4,8 +4,7 @@
 
 # Course Objectives
 
-a) Introduce different processor technologies, performance metrics, representation of numbers, and arithmetic operations.
-Introduce MIPS architecture, demonstrate its instruction formats, and translation of simple C/Java code snippets to MIPS assembly language.
+a) Introduce different processor technologies, performance metrics, representation of numbers, and arithmetic operations. Introduce MIPS architecture, demonstrate its instruction formats, and translation of simple C/Java code snippets to MIPS assembly language.
 
 b) Teach how to design processor datapaths, recognize pipelining hazards, and use different techniques to overcome them.
 
