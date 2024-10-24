@@ -16,6 +16,6 @@ d) Introduce parallel architecture and parallel programming.
 
 ### PBK
 
-**Chapter 2 & 3**  https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=whygJ7_JAOrbPaIO
+**Chapter 2 & 3 :**  https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=whygJ7_JAOrbPaIO
 
-**Chapter 4** https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=mwowY9uUmZSrWr7v
+**Chapter 4 :** https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=mwowY9uUmZSrWr7v
