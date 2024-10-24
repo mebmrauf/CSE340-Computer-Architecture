@@ -11,3 +11,11 @@ b) Teach how to design processor datapaths, recognize pipelining hazards, and us
 c) Introduce and explain memory hierarchy and performance analysis.
 
 d) Introduce parallel architecture and parallel programming.
+
+# Playlist
+
+### PBK
+
+**Chapter 2 & 3**  https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=whygJ7_JAOrbPaIO
+
+**Chapter 4** https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=mwowY9uUmZSrWr7v
