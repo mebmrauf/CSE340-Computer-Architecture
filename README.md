@@ -14,8 +14,11 @@ d) Introduce parallel architecture and parallel programming.
 
 # Playlist
 
-### PBK
+## Chapter 02
+https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=whygJ7_JAOrbPaIO
 
-**Chapter 2 & 3 :**  https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=whygJ7_JAOrbPaIO
+## Chapter 03
+https://www.youtube.com/playlist?list=PLKyFAP_ydM14ALrCiu617O4bKvlWiGOqj
 
-**Chapter 4 :** https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=mwowY9uUmZSrWr7v
+## Chapter 04
+https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=mwowY9uUmZSrWr7v
