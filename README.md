@@ -12,7 +12,7 @@ c) Introduce and explain memory hierarchy and performance analysis.
 
 d) Introduce parallel architecture and parallel programming.
 
-# RISC-V Assembler Cheat Sheet
+### RISC-V Assembler Cheat Sheet
 https://projectf.io/posts/riscv-cheat-sheet/
 
 # Playlist
