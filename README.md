@@ -22,3 +22,6 @@ https://www.youtube.com/playlist?list=PLKyFAP_ydM14ALrCiu617O4bKvlWiGOqj
 
 ## Chapter 04
 https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=mwowY9uUmZSrWr7v
+
+# RISC-V Assembler Cheat Sheet
+https://projectf.io/posts/riscv-cheat-sheet/
