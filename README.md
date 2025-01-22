@@ -17,6 +17,9 @@ https://projectf.io/posts/riscv-cheat-sheet/
 
 ## Playlist
 
+### Chapter 01
+https://youtube.com/playlist?list=PLKyFAP_ydM14yhCG3g7F1USsIQuQkRUFm&si=-xefA7-FS_yDG87o
+
 ### Chapter 02
 https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=whygJ7_JAOrbPaIO
 
